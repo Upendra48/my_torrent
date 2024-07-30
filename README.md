@@ -272,7 +272,7 @@ To run the script, execute the following command in your terminal:
 
 ```bash
 python main_script.py path_to_torrent_file.torrent
-
+```
 
 ## License
 
